@@ -103,7 +103,7 @@ Library operations such as adding, searching, listing, viewing, and removing boo
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repository-url>
+git clone <https://github.com/erelliushasree/KLANVISION-LIBRARY-CATALOG-SYSTEM/tree/master/src/library>
 ```
 
 ### 2. Open the project
